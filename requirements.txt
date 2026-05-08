@@ -1,0 +1,5 @@
+streamlit
+akshare>=1.14.85
+yfinance
+pandas<3.0.0
+pandas_ta
